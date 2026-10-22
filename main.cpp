@@ -1,5 +1,11 @@
 #include <iostream>
 
+int functionB()
+{
+	// This is function B contents
+	return 0;
+}
+
 void functionA()
 {
 }
