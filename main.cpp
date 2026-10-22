@@ -1,6 +1,11 @@
 #include <iostream>
 
-int main(int argc, char *argv[]) {
-    say_hello();
-    return 0;
+void functionA()
+{
+}
+
+int main(int argc, char *argv[])
+{
+	printf("Hello");
+	return 0;
 }
